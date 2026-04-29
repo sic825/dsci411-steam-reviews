@@ -3,8 +3,9 @@
 End-of-semester project for DSCI 411 (Data Management for Big Data) at Lehigh University, Spring 2026.
 
 ## Team
-- Simon Chen (sic825)
-- Thoi Quach (thq225)
+- Simon Chen 
+- Thoi Quach
+- Yuhao Zeng 
 
 ## Research Question
 Can NLP-derived text features from Steam user reviews predict whether a player recommends a game? How does classifier performance compare between English and Simplified Chinese reviews?
